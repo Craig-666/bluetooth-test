@@ -1,0 +1,11 @@
+/* pages/print/print.wxss */
+.print{
+  margin: 30rpx
+}
+.textarea{
+  border: 2rpx solid #efeff4;
+  border-radius: 8rpx;
+  box-sizing: border-box;
+  width: 690rpx;
+  margin-left: 30rpx
+}

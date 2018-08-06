@@ -1,0 +1,3 @@
+<!--pages/print/print.wxml-->
+<button bindtap='print' class='print'>打印</button>
+<textarea placeholder='输入' class=' textarea' bindinput='handleInput'></textarea>

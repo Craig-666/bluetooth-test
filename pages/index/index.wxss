@@ -1,0 +1,21 @@
+/**index.wxss**/
+.scan{
+  width: 100%;
+  z-index: 2;
+  text-align: center;
+  position: fixed;
+  top: 0
+}
+
+.devices{
+  padding-top: 2.555em;
+}
+
+.device_item {
+  border-bottom: 1px solid #EEE;
+  padding: 10px;
+  color: #666;
+}
+.device_item_hover {
+  background-color: rgba(0, 0, 0, .1);
+}
